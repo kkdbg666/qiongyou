@@ -1,0 +1,27 @@
+<!--pages/home/home.wxml-->
+<swiper indicator-dots>
+    <swiper-item>
+        <image mode="widthFix" src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
+    </swiper-item>
+    <swiper-item>
+        <image mode="widthFix" src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
+    </swiper-item>
+</swiper>
+<view class="wrapper">
+  <navigator>
+    <image src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
+    <view class="title">汪镕彬</view>
+  </navigator>
+  <navigator>
+    <image src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
+    <view class="title">2021213076</view>
+  </navigator>
+  <navigator>
+    <image src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
+    <view class="title">汪镕彬</view>
+  </navigator>
+  <navigator>
+    <image src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
+    <view class="title">汪镕彬</view>
+  </navigator>
+</view>

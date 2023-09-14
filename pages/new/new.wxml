@@ -1,0 +1,15 @@
+<!--pages/new/new.wxml-->
+<form>
+  <view class="title">登录表单</view>
+  <view class="wrapper">
+    <label>用户名</label>
+    <input type="text"/>
+  </view>
+  <view class="wrapper">
+    <label>密码</label>
+    <input type="password"/>
+  </view>
+  <view>
+  <button type="primary">登录</button>
+  </view>
+</form>
