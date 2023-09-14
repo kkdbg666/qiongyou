@@ -1,27 +1,30 @@
 <!--pages/home/home.wxml-->
 <swiper indicator-dots>
     <swiper-item>
-        <image mode="widthFix" src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
+        <image mode="aspectFit" src="/images/introduction/technology/c82ba724e7a0d17c197e29aab172a44.png"></image>
     </swiper-item>
     <swiper-item>
-        <image mode="widthFix" src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
+        <image mode="aspectFit" src="/images/introduction/view/100a75fc123cec917f2aaffa235df52.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+        <image mode="aspectFit" src="/images/introduction/view/4db4b18fbe49baa81aa1cb1cf4c28b9.jpg"></image>
     </swiper-item>
 </swiper>
 <view class="wrapper">
   <navigator>
-    <image src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
-    <view class="title">汪镕彬</view>
+    <image src="/images/introduction/plane/53cd1d48ae67151289808345a72e56a.jpg"></image>
+    <view class="title">海南旅游探秘助手</view>
   </navigator>
   <navigator>
-    <image src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
-    <view class="title">2021213076</view>
+    <image src="/images/introduction/plane/32ba4374e54ed26516685301422716f.jpg"></image>
+    <view class="title"></view>
   </navigator>
   <navigator>
-    <image src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
-    <view class="title">汪镕彬</view>
+    <image src="/images/introduction/campus/a314b1221302d538c030861eac2303e.jpg"></image>
+    <view class="title"></view>
   </navigator>
   <navigator>
-    <image src="http://www.bupt.edu.cn/images/tujiimg2.png"></image>
-    <view class="title">汪镕彬</view>
+    <image src="/images/introduction/technology/c82ba724e7a0d17c197e29aab172a44.png"></image>
+    <view class="title"></view>
   </navigator>
 </view>
