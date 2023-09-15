@@ -10,10 +10,14 @@
         <image mode="aspectFit" src="/images/introduction/view/4db4b18fbe49baa81aa1cb1cf4c28b9.jpg"></image>
     </swiper-item>
 </swiper>
+  <!--按钮-->
+  <button bindtap="goToList">景区列表</button>
+  <button bindtap="goToNew">路径规划</button>
+  <button>地图展示</button>
 <view class="wrapper">
   <navigator>
     <image src="/images/introduction/plane/53cd1d48ae67151289808345a72e56a.jpg"></image>
-    <view class="title">海南旅游探秘助手</view>
+    <view class="title"></view>
   </navigator>
   <navigator>
     <image src="/images/introduction/plane/32ba4374e54ed26516685301422716f.jpg"></image>

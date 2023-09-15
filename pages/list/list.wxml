@@ -1,0 +1,12 @@
+
+<view class="list-container">
+  <view class="scenery-card" wx:for="{{sceneryList}}" wx:key="*this">
+    <image class="scenery-image" src="{{item.image}}"/>
+    <view class="scenery-info">
+      <text class="scenery-name">{{item.name}}</text>
+      <text class="scenery-location">{{item.location}}</text>
+      <text class="scenery-time">{{item.openingTime}}</text>
+      <text class="scenery-score">{{'评分：' + item.score}}</text>
+    </view>
+  </view>
+</view>

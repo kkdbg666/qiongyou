@@ -1,7 +1,8 @@
 {
   "pages":[
     "pages/home/home",
-    "pages/new/new"
+    "pages/new/new",
+    "pages/list/list"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -18,6 +19,11 @@
     },{
       "pagePath": "pages/new/new",
       "text": "新建",
+      "iconPath": "/images/icon/liststyle.png",
+      "selectedIconPath": "images/icon/liststyle-r.png"
+    },{
+      "pagePath": "pages/list/list",
+      "text": "列表",
       "iconPath": "/images/icon/liststyle.png",
       "selectedIconPath": "images/icon/liststyle-r.png"
     }]
